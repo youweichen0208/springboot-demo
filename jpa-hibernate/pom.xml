@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>jpa-hibernate</artifactId>
+	<artifactId>jpa-hibernate-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpa-hibernate</name>
 	<description>Demo project for Spring Boot</description>
