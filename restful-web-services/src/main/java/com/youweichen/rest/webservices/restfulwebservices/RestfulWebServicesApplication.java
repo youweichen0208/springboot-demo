@@ -1,13 +1,13 @@
-package com.miniproject.springboot.miniprojectdemo;
+package com.youweichen.rest.webservices.restfulwebservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MiniProjectDemoApplication {
+public class RestfulWebServicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MiniProjectDemoApplication.class, args);
+		SpringApplication.run(RestfulWebServicesApplication.class, args);
 	}
 
 }

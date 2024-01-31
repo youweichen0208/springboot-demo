@@ -1,10 +1,10 @@
-package com.miniproject.springboot.miniprojectdemo;
+package com.youweichen.rest.webservices.restfulwebservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiniProjectDemoApplicationTests {
+class RestfulWebServicesApplicationTests {
 
 	@Test
 	void contextLoads() {
